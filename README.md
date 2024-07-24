@@ -36,9 +36,9 @@ Información personal que te gustaría compartir, como tu formación académica,
 <a href="https://www.linkedin.com/in/israel-alexis-palma-quezada/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imiked" height="30" width="30"/></a>
 </p>
 
-## Contribuciones
+## Lenguajes
 
-- Instrucciones para contribuir a tus proyectos si aceptas colaboraciones externas.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learsixela)](https://github.com/learsixela/github-readme-stats)
 
 ## Licencia
 
