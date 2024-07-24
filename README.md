@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy un eterno profesor y estudiante de la programación.
-"...enseñar a otros es la forma más efectiva de aprender". (William Glasser)
+
 
 ## Sobre Mí
-
-Información personal que te gustaría compartir, como tu formación académica, experiencia laboral, habilidades, proyectos en los que has trabajado, etc.
+<p>
+Soy un eterno profesor y estudiante de la programación.
+</p>
+<p>
+ <i>"...enseñar a otros es la forma más efectiva de aprender".</i> <b>(William Glasser)</b>
+</p>
 
 ## Habilidades
 
-- Lista de habilidades relevantes, como lenguajes de programación, herramientas, tecnologías, etc.
+- por agregar.
 
-## Proyectos Destacados
-
-- Breve descripción de algunos proyectos en los que has trabajado y que te gustaría destacar.
 
 ## Contacto
 
@@ -40,12 +40,11 @@ Información personal que te gustaría compartir, como tu formación académica,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learsixela)](https://github.com/learsixela/github-readme-stats)
 
-## Licencia
+## stats
 
-- Información sobre la licencia bajo la cual se comparten tus proyectos.
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=learsixela&show_icons=true" alt="learsixela"/>
 
 ## Agradecimientos
 
 - Agradecimientos a alumnos, profesores y compañeros de trabajo, que sin duda hacen de este viaje un entretenido caminar. 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=learsixela&show_icons=true" alt="learsixela"/>
